@@ -7,3 +7,4 @@
 - Wrist Support: should be curved to the right and off centre - in line with the right curved edge near the handle. Holding your right arm out straight and making
 a fist, you can see how the arm aligns with the right edge of the hand, while the thumb sticks out. 
 - Thumb: since it sticks out, you should carve out a little more space for it. 
+- Covvi socket mount: make slightly wider to allow for the insertion of a soft layer e.g felt, to protect the mount on the universal socket. 
