@@ -13,7 +13,7 @@ PuTTY is a terminal emulator which we can use to export and save the stopwatch t
 6. Whenever you next launch PuTTY, select your saved session and click **Load** to restore this config.
 
 ### Operating Order
-1. Run the arduino stopwatch file, PuTTY, the csv file and the serial monitor must be closed. 
+1. Run the arduino RunCondition.ino file, PuTTY, the csv file and the serial monitor must be closed. 
 2. Run PuTTY, load your saved session, click open. 
 3. The black terminal screen will appear, wait for the first line to appear indicating void setup has complete.
 4. You can now proceed with the trial. 
